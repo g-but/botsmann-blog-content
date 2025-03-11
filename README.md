@@ -76,4 +76,4 @@ posts/
     ├── index.mdx
     └── media/
         └── example.png
-``` 
+```
